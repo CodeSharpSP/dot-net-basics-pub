@@ -9,7 +9,7 @@ namespace ConsoleApplication2
     {
         public static void Main(String[] args)
         {
-            Console.Write("enter the row count:{0}\n");
+            Console.Write("enter the row count:{0}\n");// display text
             int m = Convert.ToInt32(Console.ReadLine());
             Console.Write("enter the column count:{0}\n");
             int n = Convert.ToInt32(Console.ReadLine());
