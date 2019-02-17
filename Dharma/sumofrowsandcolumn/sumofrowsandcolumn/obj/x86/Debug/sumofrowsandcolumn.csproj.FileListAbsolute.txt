@@ -1,0 +1,5 @@
+c:\users\kd\documents\visual studio 2010\Projects\sumofrowsandcolumn\sumofrowsandcolumn\bin\Debug\sumofrowsandcolumn.exe
+c:\users\kd\documents\visual studio 2010\Projects\sumofrowsandcolumn\sumofrowsandcolumn\bin\Debug\sumofrowsandcolumn.pdb
+c:\users\kd\documents\visual studio 2010\Projects\sumofrowsandcolumn\sumofrowsandcolumn\obj\x86\Debug\sumofrowsandcolumn.exe
+c:\users\kd\documents\visual studio 2010\Projects\sumofrowsandcolumn\sumofrowsandcolumn\obj\x86\Debug\sumofrowsandcolumn.pdb
+C:\Users\KD\documents\visual studio 2010\Projects\sumofrowsandcolumn\sumofrowsandcolumn\obj\x86\Debug\sumofrowsandcolumn.csprojResolveAssemblyReference.cache
