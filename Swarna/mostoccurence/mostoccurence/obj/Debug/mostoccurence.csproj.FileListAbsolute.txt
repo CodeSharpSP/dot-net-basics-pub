@@ -1,0 +1,6 @@
+S:\Sample projects\mostoccurence\mostoccurence\bin\Debug\mostoccurence.exe.config
+S:\Sample projects\mostoccurence\mostoccurence\obj\Debug\mostoccurence.csprojResolveAssemblyReference.cache
+S:\Sample projects\mostoccurence\mostoccurence\bin\Debug\mostoccurence.exe
+S:\Sample projects\mostoccurence\mostoccurence\bin\Debug\mostoccurence.pdb
+S:\Sample projects\mostoccurence\mostoccurence\obj\Debug\mostoccurence.exe
+S:\Sample projects\mostoccurence\mostoccurence\obj\Debug\mostoccurence.pdb

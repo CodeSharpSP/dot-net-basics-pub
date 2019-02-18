@@ -1,0 +1,6 @@
+S:\Sample projects\string char\string char\bin\Debug\string char.exe.config
+S:\Sample projects\string char\string char\bin\Debug\string char.exe
+S:\Sample projects\string char\string char\bin\Debug\string char.pdb
+S:\Sample projects\string char\string char\obj\Debug\string char.csprojResolveAssemblyReference.cache
+S:\Sample projects\string char\string char\obj\Debug\string char.exe
+S:\Sample projects\string char\string char\obj\Debug\string char.pdb
