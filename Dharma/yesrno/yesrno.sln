@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yesrno", "yesrno\yesrno.csproj", "{80CFFD6D-A179-4280-ACF8-F9F186F488BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CFFD6D-A179-4280-ACF8-F9F186F488BB}.Debug|x86.ActiveCfg = Debug|x86
+		{80CFFD6D-A179-4280-ACF8-F9F186F488BB}.Debug|x86.Build.0 = Debug|x86
+		{80CFFD6D-A179-4280-ACF8-F9F186F488BB}.Release|x86.ActiveCfg = Release|x86
+		{80CFFD6D-A179-4280-ACF8-F9F186F488BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
