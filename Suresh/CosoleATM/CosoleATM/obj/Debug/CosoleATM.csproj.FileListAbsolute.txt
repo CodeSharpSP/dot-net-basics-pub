@@ -1,1 +1,0 @@
-C:\Personal\Samples\CodeSharpSp\dot-net-basics-pub\Suresh\CosoleATM\CosoleATM\bin\Debug\CosoleATM.exe.config
