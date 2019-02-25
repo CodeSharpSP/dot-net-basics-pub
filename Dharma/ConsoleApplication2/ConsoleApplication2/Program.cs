@@ -5,43 +5,44 @@ using System.Text;
 
 namespace ConsoleApplication2
 {
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
-            int[] a = new int[100];
-            int n;
-            Console.Write("enter the size of the array :\n");
-            n = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the array value :");
+            int m = int.Parse(Console.ReadLine());
+            int[] a = new int[m];
+            Console.Write("Enter the size of an array :");
+            int n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
                 Console.WriteLine("Enter value of index{0} ", i);
-                a[i] = Convert.ToInt32(Console.ReadLine());
+                a[i] = int.Parse(Console.ReadLine());
             }
-            int sum=0;
+            int sum = 0;
             for (int i = 0; i < n; i++)
             {
                 sum += a[i];
             }
-            Console.Write("sum of the array :{0}\n", sum);
+            Console.WriteLine("sum of the array :{0}", sum);
             int avg = sum / n;
-            Console.Write("average element of array:{0}\n", avg);
-            int min=a[0];
-            int mx=a[0];
+            Console.WriteLine("average element of array:{0}", avg);
+            int min = a[0];
+            int max = a[0];
             for (int i = 0; i < n; i++)
             {
                 if (a[i] < min)
                 {
-                    min= a[i];
+                    min = a[i];
                 }
-                if (a[i] > mx)
+                if (a[i] > max)
                 {
-                    mx = a[i];
+                    max = a[i];
                 }
             }
-            Console.Write("Minimum element is :{0}\n", min);
-            Console.Write("Maximum element is :{0}\n", mx);
-            Console.ReadKey();
-  }	
+            Console.WriteLine("Minimum element is :{0}", min);
+            Console.WriteLine("Maximum element is :{0}", max);
+            Console.ReadLine();
+        }
     }
 }
