@@ -1,0 +1,6 @@
+C:\Users\Alliswell\ArivuRepo\BankAppConsole\BankAppConsole\bin\Debug\BankAppConsole.exe.config
+C:\Users\Alliswell\ArivuRepo\BankAppConsole\BankAppConsole\bin\Debug\BankAppConsole.exe
+C:\Users\Alliswell\ArivuRepo\BankAppConsole\BankAppConsole\bin\Debug\BankAppConsole.pdb
+C:\Users\Alliswell\ArivuRepo\BankAppConsole\BankAppConsole\obj\Debug\BankAppConsole.csprojResolveAssemblyReference.cache
+C:\Users\Alliswell\ArivuRepo\BankAppConsole\BankAppConsole\obj\Debug\BankAppConsole.exe
+C:\Users\Alliswell\ArivuRepo\BankAppConsole\BankAppConsole\obj\Debug\BankAppConsole.pdb
