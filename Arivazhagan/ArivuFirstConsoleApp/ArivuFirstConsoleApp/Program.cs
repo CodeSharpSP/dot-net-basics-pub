@@ -39,7 +39,7 @@ namespace ArivuFirstConsoleApp
                         }
 
                     }
-                    else
+                    if (Input == "no")
                     {
                         Console.WriteLine("Press Any Key to Exit");
                         break;
