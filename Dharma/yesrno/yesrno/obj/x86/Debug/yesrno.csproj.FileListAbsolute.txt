@@ -1,0 +1,5 @@
+c:\users\kd\documents\visual studio 2010\Projects\yesrno\yesrno\bin\Debug\yesrno.exe
+c:\users\kd\documents\visual studio 2010\Projects\yesrno\yesrno\bin\Debug\yesrno.pdb
+c:\users\kd\documents\visual studio 2010\Projects\yesrno\yesrno\obj\x86\Debug\yesrno.exe
+c:\users\kd\documents\visual studio 2010\Projects\yesrno\yesrno\obj\x86\Debug\yesrno.pdb
+C:\Users\KD\documents\visual studio 2010\Projects\yesrno\yesrno\obj\x86\Debug\yesrno.csprojResolveAssemblyReference.cache

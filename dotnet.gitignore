@@ -1,0 +1,12 @@
+# Built application and config files exclude
+*.dll
+*.pdb
+*.vshost.exe.config
+*.vshost.exe.manifest
+*.vshost.exe
+*.exe.config
+*.exe
+
+# Generated files
+bin/
+obj/
