@@ -1,0 +1,5 @@
+C:\Users\KD\documents\visual studio 2010\Projects\ATMconsole\ATMconsole\bin\Debug\ATMconsole.exe
+C:\Users\KD\documents\visual studio 2010\Projects\ATMconsole\ATMconsole\bin\Debug\ATMconsole.pdb
+C:\Users\KD\documents\visual studio 2010\Projects\ATMconsole\ATMconsole\obj\x86\Debug\ATMconsole.exe
+C:\Users\KD\documents\visual studio 2010\Projects\ATMconsole\ATMconsole\obj\x86\Debug\ATMconsole.pdb
+C:\Users\KD\documents\visual studio 2010\Projects\ATMconsole\ATMconsole\obj\x86\Debug\ATMconsole.csprojResolveAssemblyReference.cache
