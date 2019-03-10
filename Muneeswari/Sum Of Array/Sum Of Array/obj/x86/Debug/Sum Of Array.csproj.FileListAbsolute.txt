@@ -1,0 +1,4 @@
+C:\Users\Elcot\documents\visual studio 2010\Projects\Sum Of Array\Sum Of Array\bin\Debug\Sum Of Array.exe
+C:\Users\Elcot\documents\visual studio 2010\Projects\Sum Of Array\Sum Of Array\bin\Debug\Sum Of Array.pdb
+C:\Users\Elcot\documents\visual studio 2010\Projects\Sum Of Array\Sum Of Array\obj\x86\Debug\Sum Of Array.exe
+C:\Users\Elcot\documents\visual studio 2010\Projects\Sum Of Array\Sum Of Array\obj\x86\Debug\Sum Of Array.pdb

@@ -1,0 +1,6 @@
+C:\sample projects\ConsoleATMApp\ConsoleATMApp\bin\Debug\ConsoleATMApp.exe.config
+C:\sample projects\ConsoleATMApp\ConsoleATMApp\bin\Debug\ConsoleATMApp.exe
+C:\sample projects\ConsoleATMApp\ConsoleATMApp\bin\Debug\ConsoleATMApp.pdb
+C:\sample projects\ConsoleATMApp\ConsoleATMApp\obj\Debug\ConsoleATMApp.csprojResolveAssemblyReference.cache
+C:\sample projects\ConsoleATMApp\ConsoleATMApp\obj\Debug\ConsoleATMApp.exe
+C:\sample projects\ConsoleATMApp\ConsoleATMApp\obj\Debug\ConsoleATMApp.pdb

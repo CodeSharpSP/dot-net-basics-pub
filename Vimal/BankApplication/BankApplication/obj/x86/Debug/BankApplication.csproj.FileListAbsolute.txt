@@ -1,0 +1,5 @@
+c:\users\elcot-lenovo\documents\visual studio 2010\Projects\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+c:\users\elcot-lenovo\documents\visual studio 2010\Projects\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+c:\users\elcot-lenovo\documents\visual studio 2010\Projects\BankApplication\BankApplication\obj\x86\Debug\BankApplication.exe
+c:\users\elcot-lenovo\documents\visual studio 2010\Projects\BankApplication\BankApplication\obj\x86\Debug\BankApplication.pdb
+C:\Users\ELCOT-Lenovo\Documents\Visual Studio 2010\Projects\BankApplication\BankApplication\obj\x86\Debug\BankApplication.csprojResolveAssemblyReference.cache
