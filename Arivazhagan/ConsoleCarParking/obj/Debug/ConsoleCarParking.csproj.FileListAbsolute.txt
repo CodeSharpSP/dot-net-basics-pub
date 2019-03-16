@@ -1,0 +1,6 @@
+C:\Users\Alliswell\ArivuRepo\ConsoleCarParking\ConsoleCarParking\bin\Debug\ConsoleCarParking.exe.config
+C:\Users\Alliswell\ArivuRepo\ConsoleCarParking\ConsoleCarParking\bin\Debug\ConsoleCarParking.exe
+C:\Users\Alliswell\ArivuRepo\ConsoleCarParking\ConsoleCarParking\bin\Debug\ConsoleCarParking.pdb
+C:\Users\Alliswell\ArivuRepo\ConsoleCarParking\ConsoleCarParking\obj\Debug\ConsoleCarParking.csprojResolveAssemblyReference.cache
+C:\Users\Alliswell\ArivuRepo\ConsoleCarParking\ConsoleCarParking\obj\Debug\ConsoleCarParking.exe
+C:\Users\Alliswell\ArivuRepo\ConsoleCarParking\ConsoleCarParking\obj\Debug\ConsoleCarParking.pdb
