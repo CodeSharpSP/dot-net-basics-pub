@@ -1,0 +1,5 @@
+c:\users\elcot\documents\visual studio 2010\Projects\list\list\bin\Debug\list.exe
+c:\users\elcot\documents\visual studio 2010\Projects\list\list\bin\Debug\list.pdb
+c:\users\elcot\documents\visual studio 2010\Projects\list\list\obj\x86\Debug\list.exe
+c:\users\elcot\documents\visual studio 2010\Projects\list\list\obj\x86\Debug\list.pdb
+C:\Users\Elcot\documents\visual studio 2010\Projects\list\list\obj\x86\Debug\list.csprojResolveAssemblyReference.cache
