@@ -1,0 +1,327 @@
+
+#Topic : SOLR SEARCH
+	
+	SOLR is used  searching purposes.. this is known for all
+	
+	why we need to seperate application for search?
+	
+	Ans : Bcoz fetch some particular record (or) data
+
+		 This is a open source one 
+	
+         Indexed data will be searched using SOLR search
+
+		yeah correct
+		
+		but why we need to use an external system for search ?
+
+		@Ans: This will be given the related content for searching something in websites
+
+	What is indexing ? Why we want indexed ?
+
+	@Ans: we all having index finger right?
+		 
+		 it will point something when someone asked something am I correct? 
+		 
+		 Yes! consider your finger is just tool, or the UI to show the result or return the result of asked key words like
+		 
+		 if someone ask where is my book? you will point the place by your index finger
+
+		 if someone asked how to go for the hotel? you will say the direction if it is near to you by indexing
+		
+		 like go this :point_right: way 
+		 
+		 Actually the hotel or the book is complete data of what you looking or expecting
+		 
+		 but when you ask for the detail you will say just name or other key terms
+
+       
+		actual product is our expectation like we need the physical book or we need to visit hotel to eat food
+		
+		so but when you ask, you will use key terms like name of the hotel, or type of the hotel (veg/non-veg) or name of the book,
+
+		or cover photo of the book with kind of data you will ask a person to get that correct?
+		
+	**Q :	This is my key ryt? hotel and book is your actual data so now actually as a human where these details indexed inside you ? 
+		
+			or let say stored you where? Edhachu notes mari note panipanga
+
+			you showing the direction or pointing the direction when someone asked, so where you have those details on you?
+
+	@Ans: Your brain or memory your brain has those information 
+		 so your brain having all the information about those data by color of the book, 
+		 cover picture of the book, 
+		 size of the book, and type of the book, and type of the hotel, name of the hotel, rating (good/bad) of the hotel
+		 
+		 when you any one of the above key details, it will return data
+		 so this is what actually searching with key words, 
+		 when you use key words, 
+		 it will give you your data as result which matched for that keywords
+		 
+		 leave the human just understand the concept
+		 
+		 so if the human what to know things easier he will map the keywords on his brain with data
+		 
+		 we will remember formulas right?
+
+		 if the the problem is this format, we need to apply this formula kind of mapping we will do
+
+	**Q :	 Is anyone tell why we need external search app like SOLR
+		 
+		 To give a better performance ,
+
+	**Q :	 why we need to indexing ?
+
+		Too give better user experience we can easily find the deep data faster than search data by alphabet order
+
+	**Q :	what is search now? you will give keywords, then will get data
+
+		Na oru term search panra na athu related ta vara result
+		
+		For if someone give keyword if you search the keyword in data, say an example
+		
+		if you have 1000 hotels in your brain someone asking about non-veg hotel having chicken bakoda
+		
+	**Q :	what you will do if you dont have indexing mechanism in your brain ?
+			
+			you need to think about 1000 hotels one by one
+
+
+	**Q :	what you will do if you dont have indexing mechanism in your brain
+		
+		We commonly said non-veg hotel list only need to remember things when you went there
+		
+		what you seen there menu card and everything ?		
+
+			if you having indexing like 
+			non veg  - hotel details
+			chicken bakoda - hotel details
+			veg - hotel details
+			both - Hotel details
+			kind of mapping
+			non veg  - hotel details
+			chicken bakoda - hotel details (100)
+			veg - hotel details (900)
+			both - Hotel details (25)
+		
+		**kind of mapping This type of mapping which will be used will it make your search faster ? 
+		instead of thinking about 1000 hotels one by one you will go and see the mapping	
+		which mapping is matching then you will return the result correct 
+		so these mapping is called indexing. 
+		
+		indexing is just map your data with relavent keywords
+		Only indexed data will be search and got the result correct
+
+		indexing or searching is not only for websites
+		it is for each systems which having collection of datas
+		no matter the type of system like (Website, console, windows, mobile)
+
+		Lucene and azure search !!!
+		
+		understand from core :) so now you know search, indexing, and the purpose of indexing
+		am correct next why we need to use external resources/systems/software for the indexing/searching purpose
+
+		1. Indexing, Searching, and Retrving is not easy job as we thinking
+		it is painful job and more critical and highly algorithamic thing
+		
+		We are application engineers, doing many applications for processing (storing, calculating, verifying, reporting ) the business data
+		but searching is not something like that because
+
+	**Q :	when you go for search?? answer from @everyone
+	
+			To sort the data,Okay got result from 50% actually, we/anyone do search for get something more easier,
+			faster, and more optimastic , with ordered when you search something in google you need result faster
+
+			Yeah!
+		
+			it needs to be related what you searched
+			it needs to be optimastic what you actually expected
+
+		Bt exact result varathu la
+		
+		Each every time it will go to search database so that it will indexing in deployment location
+		So it faster to serve
+
+		your database is already prefilled for different job Database job is store the data
+		your database is instructed for the relational data and it is more havier and it is more complex
+		since it has many relations among the data 
+		
+		coming out of your website search ,pls come out from there	try to think widely about that concepts
+		so we dont care about who using search system
+		
+		we are talking why and how search system !!!
+		
+		Databases only store the data va
+		
+		We will not use any relational database like (SQL, ORACLE, MYSQL ) for the Search or general search
+
+		it will store the data with relations and constraints ( primary key, foreign key, etc )
+
+		so search is developed as more optimastic way and it is independent with actual data storage or relational databases
+
+   **Q : why it's independent nu solluringa ?
+		
+		Yeah it is independent!
+		for ex: no matter which system is sending data to SOLR, lucene, or elastic search
+
+		where your storing the data indexing is what you given for indexing and its format
+		that is what it will know no matter that application is using database or simply files to store data
+
+		indexing is what you given for indexing and its format
+		Nama SOLR use panrathu nala thana indexing panrom....suppose SOLR use panathavanga data va database thana maintain pannuvanga
+		Atha kukura	Kekura*
+		
+		Yeah, correct but here we are not talking about database right here we talking about search
+
+		ungalukku search more faster, optimastic, simpler, and ordered ah venamna neenga search tool use panna theva illa
+
+		Search tool na like SOLR So if you need fastest search on you application you need to use search tool
+		no other options SQL will work for some extend but not the level of actual search tools
+
+		So if you need fastest search on you application you need to use
+		SQL will work for some extend but not the level of actual search
+
+		these kind of search tool you can use/integrate any of your application or software for the good user search experience
+
+		So search tool tha efficient na athuvea ella website,Windows application la use panala la
+		Yen avanga inum db use panranga
+
+		these kind of search tool you can use/integrate any of your application
+
+	db is storing data in optimastic way with normalized way with relations database ethukku use pannanumnu oru naal discuss pannuvom
+
+	Google ku use panra search ena search
+	that is fastest one their own system and algorithms
+	
+	We cannot even imagine the indexing algorithm of google
+	actually I cannot, sorry
+	
+	**Q : what kind of data you indexing ?
+		
+		say if you indexing images, you have to use diff one
+
+	**Q : Search tool oda concept  indexing and then searching thana illana SOLR matum antha concept ta
+		
+			all search will work based on indexing only as I know
+			
+			say if you indexing images, you have to use diff one
+			
+			indexing one of the key and core part of the search
+
+	**Other key concepts in search**
+		- storing data
+		- retriving data
+
+		Ji indexing la irukura data already stored data va thana irukum
+		
+		how you storing your data, in which format, and how you talk to OS's file systems to store and retrive your indexed data
+		is major part
+
+		yeah that is what both are important one
+		evlo data store pannunalum ungaloda search faster ah irukkanum
+		RAM ah optimaised ah use pannanum disk drive(hard disk) ah more optimised ah use pannanum
+		
+		- storing data - retriving data-
+
+		indexing is the concept of splitting (tokenizing) your data and storing
+
+		Index config apdikura part la atha mention panita podhum la
+
+	***Search is
+		1) indexing 
+		2) storing
+		3) retriving
+
+	1.	Fst one okay ji
+
+		store panrathu nama normal ah file la write pannuvom
+
+		Indexing mapping the data or ethuna database use pannuvom
+		illaina ethavathu pendrive la store pannuvom ana Give Ex
+	
+	Example ::
+		
+		ithula data va write panrathu yaru?
+		neenga kodukkura data va disk la write panrathu yaru?
+
+		Internal edhachu iruka
+		Write panrathukunu
+		Some logic mari
+		
+		irukkalaam, we will use FileWritter for windows (.net)
+		athu write panratha vida speeda ungalala write panna mudinja ??
+		
+		System internal la panrathu....na panrathu difference irukum la
+		
+		unalala oru speed ana program ezhutha mudinja correct
+
+		neenga oru internal program ezhuthurenga athu exisitng ah vida speed ah iruntha? your writting will be faster right?
+		
+		athu mathiri internal reader unga disk la irunthu read panni kodukkuratha vida speed ah 
+		read panra mathiri neenga oru porgam ezhuthuna
+		your reading will be speed than normal one
+		
+		***Real program :
+			fast ah execution
+			Less memeory Consumption
+			if you install A game  it Will take Less RAM Usage
+	
+	**programing is not just doing business logics
+		Anga thaan programing velai ye irukku
+		
+		it is more about talking with environment where your software is going to run
+		
+		Programing is not just doing business logics
+		
+		Environment means :	system 	your device like PC, laptop, mobile, server, tab and so on and cloud too
+
+	Ipo short ta Sollunga store panna data mattum tha enala retrieve panna mudium ryt
+	yes Indexing la ella value irukum including my search term yes
+	
+	Q:	Ipo na data va retrieve pannanu Epdi panrathu
+		
+		okay, athukku neeng aoru prorgam ezhuthuvenga
+		athukku naan search term kodutha Epdi ennoda data va na store Pani retrieve pannuva
+		athu data va find panni return pannum
+		Epdi ennoda data va na store Pani retrieve pannuva
+		
+		!!!athu neenga thaan yosikkanum...
+		
+		I mean who going to develop search engine
+		SOLR/lucene ezuthunavanga enna logic use panrangannu enakku theriyathu
+		but that is more faster than normal DB writting
+
+		you are indexing 2000+ products less than 5misn right?
+		if it is very good server then it will take very less time too
+		
+		then that writing is faster than DB insert write operation right?
+		Store pandra data la ena format la irikum
+		
+		neenga electroics student thana	sollunga
+		
+		data ennava disk la store agum?
+		
+		bits, bytes, track, sector
+		padichirukengala?
+		
+		oru write head angaium, ingaium move agum!!
+	
+		NTFS file system nu laam padichiruppome...!
+		
+		storing is nothing just writing your data into the disk
+	
+	means, once you send data to solr,
+	it needs to store in file after processed its indexing algorithm
+	
+	storing (writing) and retriving (reading) is common process for all the systems; 
+	because all the systems playing with datas; 
+	so somehow it needs to store/write and retrive/read.
+	
+	For example when you sending data to one machine to another machine; 
+	calling the APIs and passing data; 
+	that needs to write convert your data into stream and need to write in network protocols
+	
+	the same way the data needs to write into your disk....
+  
+  END
+
