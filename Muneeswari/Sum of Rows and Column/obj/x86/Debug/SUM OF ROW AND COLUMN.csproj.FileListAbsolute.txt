@@ -1,0 +1,2 @@
+C:\Personal\Samples\CtrlF9\dot-net-basics-pub\Muneeswari\Sum of Rows and Column\obj\x86\Debug\ConsoleApplication2.exe
+C:\Personal\Samples\CtrlF9\dot-net-basics-pub\Muneeswari\Sum of Rows and Column\obj\x86\Debug\ConsoleApplication2.pdb
