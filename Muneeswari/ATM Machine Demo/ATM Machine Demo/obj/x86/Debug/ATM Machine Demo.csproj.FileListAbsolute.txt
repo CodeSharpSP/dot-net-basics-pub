@@ -1,4 +1,0 @@
-c:\users\elcot\documents\visual studio 2010\Projects\ATM Machine Demo\ATM Machine Demo\bin\Debug\ATM Machine Demo.exe
-c:\users\elcot\documents\visual studio 2010\Projects\ATM Machine Demo\ATM Machine Demo\bin\Debug\ATM Machine Demo.pdb
-c:\users\elcot\documents\visual studio 2010\Projects\ATM Machine Demo\ATM Machine Demo\obj\x86\Debug\ATM Machine Demo.exe
-c:\users\elcot\documents\visual studio 2010\Projects\ATM Machine Demo\ATM Machine Demo\obj\x86\Debug\ATM Machine Demo.pdb

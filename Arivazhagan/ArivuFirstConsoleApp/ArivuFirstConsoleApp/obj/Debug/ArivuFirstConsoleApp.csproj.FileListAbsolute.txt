@@ -1,6 +1,0 @@
-C:\Users\Alliswell\ArivuRepo\ArivuFirstConsoleApp\ArivuFirstConsoleApp\bin\Debug\ArivuFirstConsoleApp.exe.config
-C:\Users\Alliswell\ArivuRepo\ArivuFirstConsoleApp\ArivuFirstConsoleApp\bin\Debug\ArivuFirstConsoleApp.exe
-C:\Users\Alliswell\ArivuRepo\ArivuFirstConsoleApp\ArivuFirstConsoleApp\bin\Debug\ArivuFirstConsoleApp.pdb
-C:\Users\Alliswell\ArivuRepo\ArivuFirstConsoleApp\ArivuFirstConsoleApp\obj\Debug\ArivuFirstConsoleApp.exe
-C:\Users\Alliswell\ArivuRepo\ArivuFirstConsoleApp\ArivuFirstConsoleApp\obj\Debug\ArivuFirstConsoleApp.pdb
-C:\Users\Alliswell\ArivuRepo\ArivuFirstConsoleApp\ArivuFirstConsoleApp\obj\Debug\ArivuFirstConsoleApp.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-S:\Sample projects\string2\string2\bin\Debug\string2.exe.config
-S:\Sample projects\string2\string2\bin\Debug\string2.exe
-S:\Sample projects\string2\string2\bin\Debug\string2.pdb
-S:\Sample projects\string2\string2\obj\Debug\string2.csprojResolveAssemblyReference.cache
-S:\Sample projects\string2\string2\obj\Debug\string2.exe
-S:\Sample projects\string2\string2\obj\Debug\string2.pdb

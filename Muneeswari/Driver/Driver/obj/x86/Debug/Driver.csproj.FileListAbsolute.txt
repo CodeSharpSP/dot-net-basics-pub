@@ -1,5 +1,0 @@
-c:\users\elcot\documents\visual studio 2010\Projects\Driver\Driver\bin\Debug\Driver.exe
-c:\users\elcot\documents\visual studio 2010\Projects\Driver\Driver\bin\Debug\Driver.pdb
-c:\users\elcot\documents\visual studio 2010\Projects\Driver\Driver\obj\x86\Debug\Driver.exe
-c:\users\elcot\documents\visual studio 2010\Projects\Driver\Driver\obj\x86\Debug\Driver.pdb
-C:\Users\Elcot\documents\visual studio 2010\Projects\Driver\Driver\obj\x86\Debug\Driver.csprojResolveAssemblyReference.cache

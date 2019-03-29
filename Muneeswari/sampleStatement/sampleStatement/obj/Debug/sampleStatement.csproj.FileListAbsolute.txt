@@ -1,6 +1,0 @@
-D:\Samples\dot-net-basics-pub\Muneeswari\Sample1\sampleStatement\sampleStatement\bin\Debug\sampleStatement.exe.config
-D:\Samples\dot-net-basics-pub\Muneeswari\Sample1\sampleStatement\sampleStatement\bin\Debug\sampleStatement.exe
-D:\Samples\dot-net-basics-pub\Muneeswari\Sample1\sampleStatement\sampleStatement\bin\Debug\sampleStatement.pdb
-D:\Samples\dot-net-basics-pub\Muneeswari\Sample1\sampleStatement\sampleStatement\obj\Debug\sampleStatement.csprojResolveAssemblyReference.cache
-D:\Samples\dot-net-basics-pub\Muneeswari\Sample1\sampleStatement\sampleStatement\obj\Debug\sampleStatement.exe
-D:\Samples\dot-net-basics-pub\Muneeswari\Sample1\sampleStatement\sampleStatement\obj\Debug\sampleStatement.pdb

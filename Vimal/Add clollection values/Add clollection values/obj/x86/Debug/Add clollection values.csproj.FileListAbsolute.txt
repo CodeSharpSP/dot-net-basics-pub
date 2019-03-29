@@ -1,5 +1,0 @@
-c:\users\elcot-lenovo\documents\visual studio 2010\Projects\Add clollection values\Add clollection values\bin\Debug\Add clollection values.exe
-c:\users\elcot-lenovo\documents\visual studio 2010\Projects\Add clollection values\Add clollection values\bin\Debug\Add clollection values.pdb
-c:\users\elcot-lenovo\documents\visual studio 2010\Projects\Add clollection values\Add clollection values\obj\x86\Debug\Add clollection values.exe
-c:\users\elcot-lenovo\documents\visual studio 2010\Projects\Add clollection values\Add clollection values\obj\x86\Debug\Add clollection values.pdb
-C:\Users\ELCOT-Lenovo\Documents\Visual Studio 2010\Projects\Add clollection values\Add clollection values\obj\x86\Debug\Add clollection values.csprojResolveAssemblyReference.cache
